@@ -21,3 +21,11 @@ https://paperswithcode.com/dataset/reuters-21578
 
 This project seeks to analyze a dataset formatted in HTML, utilizing multilabel classification and natural language processing techniques to categorize the data. Additionally, 
 it addresses noise within the dataset. Furthermore, it involves comparing the results obtained through multilabel classification with those achieved through multiclass classification.
+
+## Source
+
+reuters21578
+
+## nbviewer link
+
+https://nbviewer.org/github/Menna2002/ReutersNewsClassification/blob/main/reuters-classification.ipynb
