@@ -29,8 +29,8 @@ it addresses noise within the dataset. Furthermore, it involves comparing the re
 Reuters classification is made possible by the contributions of the following team members:
 
 - Menna Allah Saed [(@menna2002)](https://github.com/menna2002) - data preprocessing + Multilabel classification + visualization (plotly)
-- Irinie Magued - visualization (matplotlib + seaborn)
-- Mohamed Yossri - RNN Model
+- Irinie Magued - visualization (matplotlib + seaborn + wordcloud)
+- Mohamed Yossri - processing for RNN + RNN Model
 
 ## nbviewer link
 
