@@ -24,6 +24,14 @@ https://www.kaggle.com/datasets/mennaallahsaed/reuters21578
 This project seeks to analyze a dataset formatted in HTML, utilizing multilabel classification and natural language processing techniques to categorize the data. Additionally, 
 it addresses noise within the dataset. Furthermore, it involves comparing the results obtained through multilabel classification with those achieved through multiclass classification.
 
+## Contributors
+
+Reuters classification is made possible by the contributions of the following team members:
+
+- Menna Allah Saed (@menna2002) - data preprocessing + Multilabel classification  + visualization (plotly)
+- Irinie Magued - visualization (matplotlib + seaborn)
+- Mohamed Yossri - RNN Model
+
 ## nbviewer link
 
 https://nbviewer.org/github/Menna2002/ReutersNewsClassification/blob/main/reuters-classification.ipynb
