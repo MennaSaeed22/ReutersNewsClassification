@@ -21,7 +21,7 @@ https://www.kaggle.com/datasets/mennaallahsaed/reuters21578
 
 ## objective
 
-This project seeks to analyze a dataset formatted in HTML, utilizing multilabel classification and natural language processing techniques to categorize the data. Additionally, 
+This project seeks to analyze a dataset formatted in XML, utilizing multilabel classification and natural language processing techniques to categorize the data. Additionally, 
 it addresses noise within the dataset. Furthermore, it involves comparing the results obtained through multilabel classification with those achieved through multiclass classification.
 
 ## Contributors
