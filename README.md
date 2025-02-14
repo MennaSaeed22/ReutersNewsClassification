@@ -31,7 +31,3 @@ Reuters classification is made possible by the contributions of the following te
 - Menna Allah Saed - data preprocessing + Multilabel classification + visualization (plotly)
 - Irinie Magued - visualization (matplotlib + seaborn + wordcloud)
 - Mohamed Yossri - processing for RNN + RNN Model
-
-## nbviewer link
-
-https://nbviewer.org/github/Menna2002/ReutersNewsClassification/blob/main/reuters-classification.ipynb
